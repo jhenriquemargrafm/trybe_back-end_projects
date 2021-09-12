@@ -50,7 +50,7 @@ Habilidades Utilizadas
 - Criar reações dinâmicas com TRIGGERS
 
 4.  Projeto - Mongo DB - Data Flights<br>
-- Habilidades Utilizadas
+Habilidades Utilizadas
 - Buscar documentos no banco
 - Usar filtros na busca
 - Deletar documentos conforme filtro
