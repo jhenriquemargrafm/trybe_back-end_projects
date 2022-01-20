@@ -115,3 +115,12 @@ Habilidades Utilizadas
 - Salvar arquivos no servidor através de uma API REST;
 - Consultar arquivos do servidor através de uma api REST.
 - Realizar testes de integração
+
+10. Projeto - Stranger Things<br>
+Habilidades Utilizadas
+- Publicar aplicações através do Heroku;
+- Visualizar logs das suas aplicações publicadas;
+- Monitorar suas aplicações publicadas;
+- Utilizar variáveis de ambiente dentro do Heroku;
+- Instalar, utilizar e aproveitar os principais recursos do PM2;
+- Fazer deploy no Heroku aproveitando recursos de um process manager.
