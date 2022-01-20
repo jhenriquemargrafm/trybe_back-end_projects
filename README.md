@@ -131,3 +131,9 @@ Habilidades Utilizadas
 - Criar e associar tabelas usando models do sequelize
 - Construir endpoints para consumir os models que criar
 - Fazer um CRUD com o ORM
+
+12. Projeto - WebChat<br>
+Habilidades Utilizadas
+- Conseguir desenvolver um server socket usando o socket.io;
+- Emitir eventos personalizados usando o socket.io;
+- Usar o pacote socket.io do Node.js para criar aplicações que trafeguem mensagens através de sockets.
