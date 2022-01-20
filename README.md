@@ -73,3 +73,8 @@ Habilidades Utilizadas
 - Utilizar expressões regulares e o operador $regex para buscar documentos
 - Utilizar o índice textual e o operador $text
 - Utilizar o operador $mod
+
+6.  Projeto - Mongo DB - Aggregations<br>
+Habilidades Utilizadas
+- Executar buscas complexas no banco mongoDB
+- Usar os operadores de aggregation para fazer uma pipeline
