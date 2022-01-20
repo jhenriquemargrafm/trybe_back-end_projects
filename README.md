@@ -94,3 +94,15 @@ Habilidades Utilizadas
 - Escrever APIs utilizando Node e Express;
 - Entender a estrutura de uma aplicação Express e como organizar seu código;
 - Criar rotas e aplicar middlewares
+
+8.  Projeto - Store Manager<br>
+Habilidades Utilizadas
+- Entender o funcionamento da camada de Model;
+- Delegar responsabilidades específicas para essa camada;
+- Conectar sua aplicação com diferentes bancos de dados;
+- Estruturar uma aplicação em camadas;
+- Delegar responsabilidades específicas para cada parte do seu app;
+- Melhorar manutenibilidade e reusabilidade do seu código;
+- Entender e aplicar os padrões REST;
+- Escrever assinaturas para APIs intuitivas e facilmente entendíveis.
+
