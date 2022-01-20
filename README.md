@@ -124,3 +124,10 @@ Habilidades Utilizadas
 - Utilizar variáveis de ambiente dentro do Heroku;
 - Instalar, utilizar e aproveitar os principais recursos do PM2;
 - Fazer deploy no Heroku aproveitando recursos de um process manager.
+
+11. Projeto - Blogs API<br>
+Habilidades Utilizadas
+- Construir um back-end usando ORM com o pacote sequelize do npm
+- Criar e associar tabelas usando models do sequelize
+- Construir endpoints para consumir os models que criar
+- Fazer um CRUD com o ORM
